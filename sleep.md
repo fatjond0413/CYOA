@@ -2,4 +2,4 @@
 
 You go back to sleep
 
-[gobacktosleep](readme.md)
+[Go back to sleep](readme.md)
