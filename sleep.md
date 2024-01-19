@@ -3,4 +3,4 @@
 
 You go back to sleep
 
-[Go back to sleep](readme.md)
+[Go back to sleep](./readme.md)
