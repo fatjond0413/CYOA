@@ -3,4 +3,4 @@
 
 You ran away from your father by jumping off the window
 
-[You died](dead.md)
+[After jumping off the window](dead.md)
