@@ -1,7 +1,7 @@
-## You follow your dad
+## Should you follow your dad
 ---
 
-Your dad tells you "We got to go, follow me"
+Your dad tells you "We got to go, follow me."
 
 [You follow him](following.md)
 
