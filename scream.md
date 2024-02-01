@@ -1,4 +1,4 @@
-## You Scream
+# You Scream
 ---
 
 You scream and your dad hears you. What happens?

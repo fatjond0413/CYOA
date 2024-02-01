@@ -1,4 +1,4 @@
-## Should you follow your dad
+# Should you follow your dad
 ---
 
 Your dad tells you "We got to go, follow me."
