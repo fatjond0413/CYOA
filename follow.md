@@ -3,6 +3,6 @@
 
 Your dad tells you "We got to go, follow me."
 
-[You follow him](following.md)
+[You decide to follow him](following.md)
 
-[You run away](run.md)
+[You run away from him](run.md)
