@@ -1,4 +1,4 @@
-## You follow your Dad
+## You followed your Dad
 ---
 
 When following your Dad he wants to take you to the doctor,
