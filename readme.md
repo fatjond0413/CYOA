@@ -3,7 +3,7 @@
 
 ### Your dad comes in and he looks like a whole different person then your regular dad does
 
-### What do you do?                                                          [image](![image](https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2)
+### What do you do?                                                          (![image](https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2)
 
 )           
 
