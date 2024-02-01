@@ -5,7 +5,7 @@
 
 ### What do you do?                                                          
 
- <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="100">
+ <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300">
 
 
 
