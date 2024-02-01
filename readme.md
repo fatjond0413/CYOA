@@ -1,9 +1,9 @@
-# You are in a alternate universe
+## After a long and nice sleep you wake up.
 ---
 
-## You wake up your dad walks in and he is a whole different person
+Your dad comes in and he looks like a whole different person then your regular dad does,
 
-What do you do.
+What do you do?
 
 [You look in the mirror to see if yourself](you.md)
 
