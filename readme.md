@@ -7,7 +7,9 @@
 
            
 
+
+
 [You look in the mirror to see if you are still you](you.md)       
 
 [You run to look at a mirror and notice something](alien.md)              
-                                                                                                       <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300" img align="right" width="100">
+                                                                                    <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300" img align="right" width="100">
