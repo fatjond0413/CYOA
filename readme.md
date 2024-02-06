@@ -14,3 +14,4 @@
 
 [You run to look at a mirror](alien.md)
 
+https://github.com/fatjond0413/CYOA/assets/146867501/94fa22aa-f4fb-4fe7-81a0-d8eb5d58489a
