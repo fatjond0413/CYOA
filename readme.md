@@ -1,4 +1,4 @@
-# After a long and nice sleep you wake up.
+# After a long sleep you wake up.
 ---
 
 ### Your dad comes in and he looks like a whole different person then your regular dad does.
