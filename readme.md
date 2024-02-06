@@ -1,15 +1,15 @@
 # After a long and nice sleep you wake up.
 ---
 
-### Your dad comes in and he looks like a whole different person then your regular dad does
+### Your dad comes in and he looks like a whole different person then your regular dad does.
 
-### What do you do?                                                          
-
-           
-  <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300" img align="right" width="100" height="200">
+### What do you do?
 
 
-[You look in the mirror to see if you are still you](you.md)       
+ <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300" img align="right" width="100" height="200">
 
-[You run to look at a mirror and notice something](alien.md)              
-                                                                             
+
+[You look in the mirror to see if you are still you](you.md)
+
+[You run to look at a mirror and notice something](alien.md)
+
