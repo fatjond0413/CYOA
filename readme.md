@@ -1,7 +1,7 @@
 # After a long sleep you wake up.
 ---
 
-### Your dad comes in and he looks like a whole different person then your regular dad does.
+### Your dad comes in and you notice that he looks like a whole lot different then your regular dad does, and you are very confused.
 
 ### What do you do?
 
@@ -11,5 +11,5 @@
 
 [You look in the mirror to see if you are still you](you.md)
 
-[You run to look at a mirror and notice something](alien.md)
+[You run to look at a mirror](alien.md)
 
