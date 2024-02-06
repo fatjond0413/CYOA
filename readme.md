@@ -6,7 +6,8 @@
 ### What do you do?
 
 
- <img src="https://github.com/fatjond0413/CYOA/assets/146867501/fd3ae7c8-2a47-42a9-8d9b-1ba9e293ccc2" width="300" img align="right" width="100" height="200">
+ <img src="!https://github.com/fatjond0413/CYOA/assets/146867501/8dc642ee-f56e-4045-b9a4-6de3a2353af3
+" width="300" img align="right" width="100" height="200">
 
 
 [You look in the mirror to see if you are still you](you.md)
