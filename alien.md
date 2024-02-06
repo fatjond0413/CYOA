@@ -6,5 +6,5 @@
 
 [Stand and watch](green.md)
 
-[SCREAM](scream.md)
+[YOU START SCREAMING](scream.md)
 
