@@ -3,4 +3,4 @@
 
 ### You go to the doctors, they take you to a lab to experiment on.
 
-[Sleep](./readme.md)
+[You fall asleep](./readme.md)
