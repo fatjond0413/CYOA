@@ -6,7 +6,7 @@
 ### What do you do?
 
 
-<img src="https://github.com/fatjond0413/CYOA/assets/146867501/55184801-21e9-419a-b609-9d2eb2031ca0"
+<img src="https://github.com/fatjond0413/CYOA/assets/146867501/55184801-21e9-419a-b609-9d2eb2031ca0">
 
 
 
