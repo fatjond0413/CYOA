@@ -7,4 +7,4 @@
 
 [You run away from him](run.md)
 
-<img src="https://github.com/fatjond0413/CYOA/assets/146867501/d24991f6-f17f-4f00-9809-faadf295ff3a" img align="right" width="300">
+<img src="https://github.com/fatjond0413/CYOA/assets/146867501/d24991f6-f17f-4f00-9809-faadf295ff3a" img align="right" width="300" height="300">
