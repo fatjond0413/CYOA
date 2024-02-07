@@ -10,4 +10,4 @@
 
 
  
-<img src="https://github.com/fatjond0413/CYOA/assets/146867501/533fab35-19a9-4d08-b044-678f2c1bc3b5" width ="400" img align="right" height="100">
+<img src="https://github.com/fatjond0413/CYOA/assets/146867501/533fab35-19a9-4d08-b044-678f2c1bc3b5" width ="400" img align="right" height="300">
