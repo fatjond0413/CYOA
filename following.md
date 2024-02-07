@@ -7,4 +7,5 @@
 
 
 
+<img src="https://github.com/fatjond0413/CYOA/assets/146867501/f85b2845-c3e3-4b95-9a7a-46f4bc4320db" widht="300">
 
